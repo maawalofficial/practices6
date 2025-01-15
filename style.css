@@ -1,0 +1,51 @@
+.header{
+	height: 10px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	width: 60%;
+	height: 150px;
+	background-color: green;
+	float: left;
+}
+.contract{
+	width: 40%;
+	height: 150px;
+	background-color: blue;
+	float: right;
+}
+.wrapper{
+	overflow: hidden;
+}
+.i1{
+	width: 33.33%;
+	height: 50px;
+	background-color: white;
+	float: left;
+
+}
+.i2{
+	width: 33.33%;
+	height: 50px;
+	background-color: black;
+	float: left;
+
+
+}
+.i3{
+	width: 33.33%;
+	height: 50px;
+	background-color: green;
+	float: left;
+
+
+}
+.footer{
+	/*clear: both;*/
+	height: 100px;
+	background-color: maroon;
+
+}
